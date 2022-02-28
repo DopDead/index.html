@@ -61,7 +61,7 @@
 
   <main class="px-3">
     <h1>MY PROFILE</h1>
-    <p class="lead">Sitthisak Sakoolrat</p>
+    <p class="lead">surachet saingam</p>
     <p class="lead">I study at Bangkok University</p>
     <img src="JangPic.jpg" width="320" height="230">
   </main>
